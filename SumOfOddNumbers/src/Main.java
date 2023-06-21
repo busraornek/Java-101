@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Negatif sayı girilene kadar dödngü devam ediyor. Negatif sayı girildikten sonra yzılan sayılarda çift sayıları topluyor
 public class Main {
     public static void main(String[] args) {
 

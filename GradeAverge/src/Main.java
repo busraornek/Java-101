@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// ortalama hesaplama
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Artık yıl hesaplama
 public class Main {
     public static void main(String[] args) {
 

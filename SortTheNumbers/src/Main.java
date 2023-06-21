@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// girilen 3 sayıyı büyükten küçüğe sıralama
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

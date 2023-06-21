@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// üssünü alıyor
 public class Main {
     public static void main(String[] args) {
 
@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Enter the base number: ");
         int n = input.nextInt();
 
-        System.out.print("Enter the number of bases: ");s
+        System.out.print("Enter the number of bases: ");
         int k = input.nextInt();
         int result = 1;
 
